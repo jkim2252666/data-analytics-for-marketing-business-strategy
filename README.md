@@ -3,7 +3,10 @@ The codes will be used to propose a new MGT/MKT elective
 
 Chapter 1 PE Ratio
 
-``` 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KkTGx2bK_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>  
+
+<div align="center">
+  <a href="https://www.youtube.com/embed/4KkTGx2bK_4">
+  <img
+   alt="YouTube video player" 
+   style="width:100%,"> 
+  </div>  
