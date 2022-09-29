@@ -10,6 +10,3 @@ I hope this is helpful to anyone wanting to embed Youtube video in Github readme
 =======
 Chapter 1 PE Ratio
 
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
->>>>>>> b4859b0034cc0682a88f0aa7a53d78c4ac0dd917
