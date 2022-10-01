@@ -10,8 +10,9 @@ Chapter 2. Discount Cash flow (DCF) method
 
 2.1. Video: <a href="https://www.youtube.com/watch?v=B3I2gWTm2u0&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"> DCF Valuation 1 </a>
 <br>
-2.1. Video: <a href="https://www.youtube.com/watch?v=GrgbZX02toM&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"> DCF Valuation 1 </a>
-
+2.1. Video: <a href="https://www.youtube.com/watch?v=GrgbZX02toM&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"> DCF Valuation 2 </a>
+<br>
+2.3. Code: <a href="https://github.com/jkim2252666/strategic_investment/blob/main/dcf.R"> DCF Valuation </a>
 
 Chapter 3. Forecasting future cash flow
 
