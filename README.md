@@ -3,6 +3,7 @@ Welcome to Strategic Investment
 Chapter 1. PER Valuation
 
 1.1. Code: <a href="https://github.com/jkim2252666/strategic_investment/blob/main/historical_sp_per_ratio.R"> S&P 500 based PER </a>
+1.2. Video: <a href="http://www.youtube.com/watch?v=4KkTGx2bK_4?html5=1"> What is PER? </a>
 
 Chapter 2. Discount Cash flow method
 
