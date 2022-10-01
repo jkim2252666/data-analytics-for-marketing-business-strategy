@@ -6,7 +6,12 @@ Chapter 1. PER Valuation
 <br>
 1.2. Video: <a href="http://www.youtube.com/watch?v=4KkTGx2bK_4?html5=1"> What is PER? </a>
 
-Chapter 2. Discount Cash flow method
+Chapter 2. Discount Cash flow (DCF) method
+
+2.1. Video: <a href="https://www.youtube.com/watch?v=B3I2gWTm2u0&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"> DCF Valuation 1 </a>
+<br>
+2.1. Video: <a href="https://www.youtube.com/watch?v=GrgbZX02toM&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ"> DCF Valuation 1 </a>
+
 
 Chapter 3. Forecasting future cash flow
 
@@ -14,10 +19,6 @@ Chpater 4. Forecasting with regression
 
 Chapter 5. Forecasting with time-series analysis
 
-
-<p align="center">
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=4KkTGx2bK_4?html5=1" frameborder="0" allowfullscreen></iframe>
-</p>
 
 
 
